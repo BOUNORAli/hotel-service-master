@@ -1,0 +1,21 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:root@cluster0.cy9h9nb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/link_db_test
+      username: root
+      password: password
+      host: localhost
+      port: 27017
+      authentication-database: admin
+      database: link_db_test
+      atlas:
+        search:
+          index: dynamic
+
+application:
+   security:
+     jwt:
+       secret-key: 404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970
+       expiration: 86400000 # a day
+       refresh-token:
+         expiration: 604800000 # 7 days
