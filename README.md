@@ -117,9 +117,4 @@ You can use Postman to test backend APIs:
 ## License
 This project is licensed under the MIT License.
 
-### Notes:
-- This README is structured for both **frontend** and **backend** components, explaining the project as a whole.
-- Replace the placeholder URLs with the actual repository links you have on GitHub.
-- You can also add screenshots or additional images for each feature (e.g., customer interface, admin interface) under the "Features" section if needed.
 
-This combined README is ready to be used for your project on GitHub!
