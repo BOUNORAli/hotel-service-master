@@ -288,6 +288,3 @@ Reservation Management: Extend the system to manage room reservations as part of
 
 ## License
 This project is licensed under the MIT License.
-
-  This README includes all essential information for someone to set up, run, and understand the backend of your application. It also follows best practices for GitHub documentation.
-
