@@ -109,9 +109,9 @@ You can use Postman to test backend APIs:
 
 ## Future Enhancements
 
-Online Payments: Add payment gateways (Stripe, PayPal) for processing orders.
-User Feedback: Enable customers to provide feedback and ratings for food items.
-Reservation System: Extend the system to handle room reservations for hotels.
+- Online Payments: Add payment gateways (Stripe, PayPal) for processing orders.
+- User Feedback: Enable customers to provide feedback and ratings for food items.
+- Reservation System: Extend the system to handle room reservations for hotels.
 
 
 ## License
